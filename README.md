@@ -1,8 +1,8 @@
-Face Recognition System
+**Face Recognition System**
 
-Overview:**
-**
-This project implements a Python-based **Face Recognition System ** designed for real-time attendance tracking and management. It leverages cutting-edge libraries like face_recognition and OpenCV for facial feature detection and recognition. **MongoDB** and **MySQL** are used for efficient data storage and retrieval, supporting multiple branch setups with multi-camera configurations.
+**Overview:**
+
+This project implements a Python-based Face Recognition System designed for real-time attendance tracking and management. It leverages cutting-edge libraries like face_recognition and OpenCV for facial feature detection and recognition. **MongoDB** and **MySQL** are used for efficient data storage and retrieval, supporting multiple branch setups with multi-camera configurations.
 
 **Features:**
 
