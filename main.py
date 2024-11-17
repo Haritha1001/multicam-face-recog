@@ -152,7 +152,7 @@ def markAttendance(id,name,tableName):
             host="localhost",
             user="root",
             database="aTest",
-            password="ashwin2801",
+            password="*******",
             buffered=True
         )
         globals()[f"{a[tableName]}cursor"] = mysqlBranchAdb.cursor()
