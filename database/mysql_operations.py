@@ -5,7 +5,7 @@ def connect_mysql():
         host="localhost",
         user="root",
         database="aTest",
-        password="ashwin2801",
+        password="******",
         buffered=True
     )
 
